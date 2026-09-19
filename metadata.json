@@ -1,0 +1,6 @@
+{
+  "name": "HistoryPersona - 역사 인물 AI 챗 & 나노바나나 페르소나",
+  "description": "세종대왕, 광개토대왕, 아인슈타인 등 역사 속 위인들과 음성(Voice)으로 대화하고, 연예인 사진으로 나노바나나 AI 위인 의상 초상화를 생성하는 서비스",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
